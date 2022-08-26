@@ -1,0 +1,6 @@
+#/usr/share/zsh/p10k.zsh
+rm -rf ~/.config/alacritty
+rm -rf ~/.config/awesome
+
+ln -srv alacritty ~/.config
+ln -srv awesome ~/.config
