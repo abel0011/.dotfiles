@@ -228,8 +228,9 @@ colors:
 
   # Colors the cursor will use if `custom_cursor_colors` is true
   cursor:
-    #text: '0x002b36'
-    cursor: '0x93a1a1'
+    text: '0x002b36'
+    cursor: '0xff6781' #pink suave 
+    #cursor: '0x93a1a1' grey
 
   # Normal colors
   normal:
@@ -244,8 +245,8 @@ colors:
       #magenta: '0x6c71c4'
     magenta:    '0x00ff00'
       #cyan:    '0x2aa198'
-    cyan:    '0x00ff00' 
-    white:   '0x93a1a1'
+    cyan:    '0x00987e' #color de los parentesis  (){}[]
+    white:   '0x40ff72' #green claro
 
   # Bright colors
   bright:
